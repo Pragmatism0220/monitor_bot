@@ -58,7 +58,8 @@ python3 bot.py
 At the same time, run the CoolQ(exe) and login it.
 And that's it. It will run once every 10 minutes.
 
-If there are some problem, please fix it yourself.
+If there are some problem, please fix it yourself.(smile)
+
 I'm tired.
 
 ## Structure
@@ -96,7 +97,7 @@ That's this project's principle(magic).
 There are a hundred of exception handling. I even use time-out handling and retrying handling for some tools.
 All the file and directory operation is strong enough(maybe).
 
-Just one thing. There're a lot of traps and bugs in some module I use. I really learn a lot from it.
+Just one thing. There're a lot of traps and bugs in some module I use. I find them and I fix them. I really learn a lot from it.
 And, it really takes me a lot of time.
 
 ~~S.H.I.T~~
