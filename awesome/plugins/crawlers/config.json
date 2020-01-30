@@ -1,0 +1,19 @@
+{
+    "user_id_list": ["7373032672"],
+    "filter": 0,
+    "since_date": 100,
+    "write_mode": ["csv"],
+    "original_pic_download": 1,
+    "retweet_pic_download": 1,
+    "original_video_download": 1,
+    "retweet_video_download": 1,
+    "cookie": "",
+    "output_directory": "E:/IDM-Download/Video/crawler/weibo_crawler",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    }
+}
