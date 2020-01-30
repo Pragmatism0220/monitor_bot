@@ -31,14 +31,14 @@ Documents(API): https://cqhttp.cc/docs/4.13/#/
 
 Documents: https://nonebot.cqp.moe/guide/scheduler.html
 
-### Craw Instagram
+### Crawl Instagram
 1. [instagram-scraper](https://github.com/rarcega/instagram-scraper)
 
-### Craw Twitter
+### Crawl Twitter
 1. [twitterscraper](https://github.com/taspinar/twitterscraper)
 2. [requests](https://github.com/psf/requests)
 
-### Craw Weibo
+### Crawl Weibo
 1. [weibo-crawler(without cookie version)](https://github.com/dataabc/weibo-crawler)
 2. [real-url](https://github.com/wbt5/real-url)
 
@@ -93,7 +93,7 @@ CoolQ
 Magic.
 
 I just use the open-source tools to get the data, and store them into a file for the first time to run it.(I use csv file)
-Next time, the program will compare the latest message in the csv-file to the data when the crawler finished its work. Once it finds the old message in the data crawed, it will stop compare work and write the new message to the csv file on its top. At the same time, it will return the message to the top file, which will send these message to QQ then.
+Next time, the program will compare the latest message in the csv-file to the data when the crawler finished its work. Once it finds the old message in the data crawled, it will stop compare work and write the new message to the csv file on its top. At the same time, it will return the message to the top file, which will send these message to QQ then.
 
 That's this project's principle(magic).
 
