@@ -21,21 +21,21 @@ async def top_main():
         for msg in instagram.instagram_main():
             print(msg)
             try:
-                await bot.send_private_msg(user_id=849689336, message=msg)
+                await bot.send_private_msg(user_id=123456789, message=msg)
             except CQHttpError:
                 pass
         # Twitter
         for msg in twitter.twitter_main():
             print(msg)
             try:
-                await bot.send_private_msg(user_id=849689336, message=msg)
+                await bot.send_private_msg(user_id=123456789, message=msg)
             except CQHttpError:
                 pass
         # Weibo
         for msg in weibo.weibo_main():
             print(msg)
             try:
-                await bot.send_private_msg(user_id=849689336, message=msg)
+                await bot.send_private_msg(user_id=123456789, message=msg)
             except CQHttpError:
                 pass
         # If you want, you can implement more functions and add them in this code in this top file.

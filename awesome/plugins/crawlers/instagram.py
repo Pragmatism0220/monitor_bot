@@ -12,8 +12,8 @@ from retrying import retry
 ins_username = 'nozomi_ka'
 Save_Location = os.path.join('E:/IDM-Download/Video/crawler/ins_crawler/', ins_username)
 dic = {'image': 'Post', 'story': 'Story'}
-loginUserName = 'dl_test004'
-loginPassword = 'zaq1xsw2'
+loginUserName = 'abc'
+loginPassword = '123'
 SEND_MSG = []
 
 
