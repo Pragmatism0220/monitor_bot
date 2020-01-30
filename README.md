@@ -1,6 +1,9 @@
 # monitor_bot
 A monitor bot works on Instagram, Twitter and Weibo.
 
+你可以在[这里](https://github.com/Pragmatism0220/monitor_bot/blob/master/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md)查看中文版的自述文件。
+(You can see the Chinese version of README file [here](https://github.com/Pragmatism0220/monitor_bot/blob/master/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md).)
+
 ## Statement
 This project is just a practice for me. I write this project just out of my interest.
 This project is just used for me to follow my idol(laugh). I am sorry if it troubles you.
